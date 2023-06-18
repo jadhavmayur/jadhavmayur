@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayur jadhav.
 - 👀 I’m interested Maths,AI and Data science.
-- 🌱 I’m currently Working as  Data science-Data Analyst.
+- 🌱 I’m currently Working as  AI Engineer.
 
 - 📫 How to reach me https://www.linkedin.com/in/mayurjadhav7/
 
